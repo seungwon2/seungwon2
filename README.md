@@ -4,3 +4,5 @@
 * 🌱 I’m currently learning `blockchain`, `spring`
 * 📫 How to reach me: `dandelionsw2@ewahin.net`
 * ⚡ Fun fact: I love `cat` 🐈 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungwon2)](https://github.com/anuraghazra/github-readme-stats)
