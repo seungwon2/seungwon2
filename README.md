@@ -5,9 +5,9 @@
 * 🐈 Fun fact: I love `cat` 
 
 ## ✨ Projects
-* 🏃🏻‍♀️ Hackathon - [Mark-At](https://github.com/seungwon2/Mark-at), [Mark-At-NFT](https://github.com/seungwon2/Mark-at-NFT) : block-chain, front-end, NFT `2021.3` ~ `2021.4`
-* ☄️ Start-Up - [Doodle](https://github.com/seungwon2/Doodle_2021) : front-end `2020.3` ~ `2021.2`
-* 👩🏻‍💻 EWHA HCI LAB Intern - [Artwiki](https://github.com/seungwon2/Artwiki) : front-end `2020.9`~`2020.12`
+*  🏃🏻‍♀️ [Hackathon] [Mark-At](https://github.com/seungwon2/Mark-at), [Mark-At-NFT](https://github.com/seungwon2/Mark-at-NFT) : block-chain, front-end, NFT `2021.3` ~ `2021.4`
+* ☄️ [Start-Up] [Doodle](https://github.com/seungwon2/Doodle_2021) : front-end `2020.3` ~ `2021.2`
+* 👩🏻‍💻 [EWHA HCI LAB Intern] [Artwiki](https://github.com/seungwon2/Artwiki) : front-end `2020.9`~`2020.12`
 
 ## 🖥 Skills
 * Programming Languages: java, python, typscript, javascript, C
