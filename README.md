@@ -1,6 +1,6 @@
 ## 🐆 Hello World ! 
 
-* 🔭 I’m currently working on 🌿`spring study`
+* 🔭 I’m currently working on 🌿`spring practice server`
 * 🌱 I’m currently learning `blockchain`, `spring`, `next.js`
 * 🐈 Fun fact: I love `cat` 
 
