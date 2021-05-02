@@ -12,7 +12,7 @@
 ## 🖥 Skills
 * Programming Languages: java, python, typscript, javascript, C
 * Front-end: React.js, Next.js, HTML, CSS
-* Backe-end: Spring, Express, Node.js, MyBatis
+* Back-end: Spring, Express, Node.js, MyBatis
 * DataBase: MySQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungwon2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
