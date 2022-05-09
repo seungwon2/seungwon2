@@ -1,18 +1,28 @@
 ## 🐆 Hello World ! 
 
-* 🔭 I’m currently working on 🌿`staking service` in DSRV
-* 🌱 I’m currently learning `blockchain`, `spring`, `next.js`
-* 🐈 Fun fact: I love `cat` 
+### Education
 
-## ✨ Projects
-*  🏃🏻‍♀️ [Hackathon] [Mark-At](https://github.com/seungwon2/Mark-at), [Mark-At-NFT](https://github.com/seungwon2/Mark-at-NFT) : block-chain, front-end, NFT `2021.3` ~ `2021.4`
-* ☄️ [Start-Up] [Doodle](https://github.com/seungwon2/Doodle_2021) : front-end `2020.3` ~ `2021.2`
-* 👩🏻‍💻 [EWHA HCI LAB Intern] [Artwiki](https://github.com/seungwon2/Artwiki) : front-end `2020.9`~`2020.12`
+**EWHA Womans University** (2018 - Current)
 
-## 🖥 Skills
-* Programming Languages: java, python, typscript, javascript, C
-* Front-end: React.js, Next.js, HTML, CSS
-* Back-end: Spring, Express, Node.js, MyBatis
-* DataBase: MySQL
+- B.E, Computer Science and Engineering
+- B.E, Science and Technology Business
+
+### Who I am
+
+🔫  Talented Sniper
+
+🐈  Cat person, but raised a dog
+
+✨  **E**xtraverted, i**N**tuitive, **T**hinking, and **J**udging
+
+### What I love
+
+🌊  Surfing
+
+📸  Photography
+
+🖼  Art History
+
+📚  Reading & Writing
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungwon2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
