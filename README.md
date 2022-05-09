@@ -27,5 +27,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungwon2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## More about me!
+## 📖 More about me!
 [Portfolio](https://polar-rumba-ef3.notion.site/Hi-I-m-Seungwon-Choi-2342fbcaa46e4273a5e5de64cd68f8a1)
